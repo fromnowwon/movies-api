@@ -10,4 +10,6 @@ public class MoviesApplication { // 실제 애플리케이션의 메인 클래�
 		SpringApplication.run(MoviesApplication.class, args);
 	}
 
+
+
 }
